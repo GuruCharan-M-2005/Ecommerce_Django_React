@@ -1,0 +1,237 @@
+[
+    {
+        "id": 1,
+        "type": "briyani",
+        "image": "https://i.pinimg.com/736x/42/19/1e/42191e5d6fe36cd0d07db69788b4a1f1.jpg",
+        "name": "Hyderabadi Chicken Biryani",
+        "description": "Aromatic basmati rice cooked with tender chicken pieces marinated in traditional Hyderabadi spices and herbs.",
+        "price": 129,
+        "count": 0
+      },
+      {
+        "id": 2,
+        "type": "briyani",
+        "image": "https://i.pinimg.com/originals/2c/ca/d5/2ccad553273808b29d4b05573eb5b7cb.jpg",
+        "name": "Vegetable Biryani",
+        "description": "A flavorful blend of basmati rice, mixed vegetables, and aromatic spices, cooked to perfection.",
+        "price": 109,
+        "count": 0
+      },
+      {
+        "id": 3,
+        "type": "briyani",
+        "image": "https://i.pinimg.com/736x/8e/d2/7a/8ed27a73af483c00a4858a7ff2c3d4c7.jpg",
+        "name": "Mutton Biryani",
+        "description": "Tender mutton pieces cooked with fragrant basmati rice and a blend of traditional spices, offering a rich and spicy flavor.",
+        "price": 149,
+        "count": 0
+      },
+      {
+        "id": 4,
+        "type": "briyani",
+        "image": "https://i.pinimg.com/736x/eb/5e/1d/eb5e1dc73bbdb06e95f07cd012fc9734.jpg",
+        "name": "Egg Biryani",
+        "description": "A delectable combination of boiled eggs, basmati rice, and aromatic spices, offering a unique twist to the traditional biryani.",
+        "price": 99,
+        "count": 0
+      },
+      {
+        "id": 5,
+        "type": "briyani",
+        "image": "https://img.freepik.com/free-photo/top-view-arrangement-with-delicious-pakistan-meal_23-2148821534.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1714435200&semt=ais",
+        "name": "Fish Biryani",
+        "description": "Fresh fish marinated in spices and layered with fragrant basmati rice, creating a delightful seafood biryani experience.",
+        "price": 139,
+        "count": 0
+      },
+      {
+        "id": 6,
+        "type": "shawarma",
+        "image": "https://i.pinimg.com/736x/61/31/10/6131104e1cc4c815763d8ecf57f2f4c8.jpg",
+        "name": "Chicken Shawarma Wrap",
+        "description": "Tender chicken slices wrapped in a soft pita bread with fresh vegetables and garlic sauce.",
+        "price": 199,
+        "count": 0
+      },
+      {
+        "id": 7,
+        "type": "shawarma",
+        "image": "https://i.pinimg.com/736x/e5/29/62/e52962a290ebfa296b0c4aca76f5d7bb.jpg",
+        "name": "Beef Shawarma Plate",
+        "description": "Juicy beef slices served with rice or fries, accompanied by hummus and salad.",
+        "price": 159,
+        "count": 0
+      },
+      {
+        "id": 8,
+        "type": "shawarma",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3bSAaSjcxUJQUYykCy4CHiJppgXL2RzNVE9OlJamNw&s",
+        "name": "Vegetarian Shawarma",
+        "description": "A delightful mix of grilled vegetables wrapped in a warm tortilla with tahini sauce.",
+        "price": 109,
+        "count": 0  
+      },
+      {
+        "id": 9,
+        "type": "chinese",
+        "image": "https://i.pinimg.com/736x/fd/f9/3a/fdf93a32b58e2645fbea1b1999d9ccd7.jpg",
+        "name": "Orange Chicken",
+        "description": "Crispy chicken pieces tossed in a tangy orange sauce, served with steamed rice.",
+        "price": 99,
+        "count": 0
+      },
+      {
+        "id": 10,
+        "type": "chinese",
+        "image": "https://i.pinimg.com/736x/52/89/a7/5289a7f72daf62dc62a3263cf0678eef.jpg",
+        "name": "Beef and Broccoli Stir-Fry",
+        "description": "Tender beef slices and fresh broccoli florets stir-fried in a savory sauce, served over noodles.",
+        "price": 129,
+        "count": 0
+      },
+      {
+        "id": 11,
+        "type": "salad",
+        "image": "https://i.pinimg.com/736x/88/50/5e/88505e99b960ec57d0287dccee0a4fb3.jpg",
+        "name": "Greek Salad",
+        "description": "A refreshing mix of crisp lettuce, tomatoes, cucumbers, olives, and feta cheese, tossed in a light vinaigrette dressing.",
+        "price": 149,
+        "count": 0
+      },
+      {
+        "id": 12,
+        "type": "salad",
+        "image": "https://i.pinimg.com/474x/80/9d/02/809d026659ce0a098b7efa7cad7d5fbc.jpg",
+        "name": "Caesar Salad",
+        "description": "Crisp romaine lettuce tossed with croutons, parmesan cheese, and Caesar dressing.",
+        "price": 189,
+        "count": 0
+      },
+      {
+        "id": 13,
+        "type": "salad",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiSSKA-FqLtZVPTcEmzXYMO-5gpeXEQxLlQ2cB_qnF_w&s",
+        "name": "Caprese Salad",
+        "description": "Fresh mozzarella cheese, tomatoes, and basil drizzled with balsamic glaze and olive oil.",
+        "price": 169,
+        "count": 0
+      },
+      {
+        "id": 14,
+        "type": "noodles",
+        "image": "https://i.pinimg.com/736x/c8/c2/5b/c8c25b9480d737a4297713f306ef423a.jpg",
+        "name": "Pad Thai Noodles",
+        "description": "Stir-fried rice noodles with shrimp, tofu, bean sprouts, and peanuts in a tangy tamarind sauce.",
+        "price": 119,
+        "count": 0
+      },
+      {
+        "id": 15,
+        "type": "noodles",
+        "image": "https://i.pinimg.com/474x/8e/3c/10/8e3c10e6bfacde84f15932d480bd88b7.jpg",
+        "name": "Vegetable Chow Mein",
+        "description": "Stir-fried noodles with mixed vegetables in a savory soy sauce.",
+        "price": 159,
+        "count": 0
+      },
+      {
+        "id": 16,
+        "type": "noodles",
+        "image": "https://i.pinimg.com/474x/8e/3c/10/8e3c10e6bfacde84f15932d480bd88b7.jpg",
+        "name": "Spicy Garlic Noodles",
+        "description": "Egg noodles tossed in a spicy garlic sauce with chicken, shrimp, or tofu.",
+        "price": 139,
+        "count": 0
+      },
+      {
+        "id": 17,
+        "type": "pizza",
+        "image": "https://i.pinimg.com/736x/75/36/5a/75365ad0fba1a6d7f285a2d2327cd2e2.jpg",
+        "name": "Margherita Pizza",
+        "description": "Classic pizza topped with tomato sauce, mozzarella cheese, and fresh basil leaves.",
+        "price": 179,
+        "count": 0
+      },
+      {
+        "id": 18,
+        "type": "pizza",
+        "image": "https://i.pinimg.com/originals/18/68/82/186882a46cce64ba1145aa64e100c7cb.jpg",
+        "name": "Pepperoni Pizza",
+        "description": "Traditional pizza topped with tomato sauce, mozzarella cheese, and slices of pepperoni.",
+        "price": 169,
+        "count": 0
+      },
+      {
+        "id": 19,
+        "type": "pizza",
+        "image": "https://i.pinimg.com/736x/83/88/46/838846b6cf5a2fea01fbf6f927c49223.jpg",
+        "name": "Vegetarian Supreme Pizza",
+        "description": "Pizza loaded with a variety of fresh vegetables like bell peppers, mushrooms, onions, and olives.",
+        "price": 159,
+        "count": 0
+      },
+      {
+        "id": 20,
+        "type": "pizza",
+        "image": "https://i.pinimg.com/736x/59/98/3b/59983b6963a72628f8510245ad86be0f.jpg",
+        "name": "BBQ Chicken Pizza",
+        "description": "Pizza topped with BBQ sauce, grilled chicken, red onions, and cilantro.",
+        "price": 149,
+        "count": 0
+      },
+      {
+        "id": 21,
+        "type": "pizza",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplZXbRFuHhfYEO7-wDnrgcUyfz6AFhKuQ4ST50QWYlA&s",
+        "name": "Hawaiian Pizza",
+        "description": "Pizza topped with ham, pineapple, and mozzarella cheese, offering a sweet and savory flavor combination.",
+        "price": 129,
+        "count": 0
+      },
+      {
+        "id": 22,
+        "type": "dessert",
+        "image": "https://i.pinimg.com/736x/73/ae/f0/73aef04c6b516df848f674b7baf74ee2.jpg",
+        "name": "Chocolate Lava Cake",
+        "description": "Indulge in the decadence of rich, molten chocolate cake served with a scoop of vanilla ice cream.",
+        "price": 120,
+        "count": 0
+      },
+      {
+        "id": 23,
+        "type": "dessert",
+        "image": "https://i.pinimg.com/474x/cc/b2/66/ccb266e66e17713ab2f28361312fd84f.jpg",
+        "name": "Tiramisu",
+        "description": "Layers of espresso-soaked ladyfingers and mascarpone cheese, dusted with cocoa powder for a classic Italian treat.",
+        "price": 130,
+        "count": 0
+      },
+      {
+        "id": 24,
+        "type": "dessert",
+        "image": "https://i.pinimg.com/736x/92/e0/8c/92e08cd850c8bce713facf685d655a93.jpg",
+        "name": "Cheesecake Sampler",
+        "description": "A delightful assortment of cheesecake slices including New York-style, strawberry, and chocolate swirl.",
+        "price": 140,
+        "count": 0
+      },
+      {
+        "id": 25,
+        "type": "dessert",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiEe6G5gth2WcM5U2l9YjLyf8eu-OsTDKoxTqyhN1rdA&s",
+        "name": "Honey Custard",
+        "description": "A velvety custard base topped with a layer of caramelized sugar, creating a perfect contrast of creamy and crunchy textures.",
+        "price": 135,
+        "count": 0
+      },
+      {
+        "id": 26,
+        "type": "dessert",
+        "image": "https://i.pinimg.com/736x/18/b8/d6/18b8d6f52bbf29878679a5a70b16c70e.jpg",
+        "name": "Red Velvet Cake",
+        "description": "Indulge in the luxurious taste of moist red velvet cake layers, frosted with cream cheese frosting and garnished with chocolate shavings.",
+        "price": 125,
+        "count": 0
+      }
+         
+]
